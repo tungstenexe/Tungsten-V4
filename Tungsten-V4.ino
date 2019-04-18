@@ -12,7 +12,9 @@
 * My YouTube Channel Link - Nerf related
 * https://www.youtube.com/Tungstenexe
 * 
-* ESC used     - Hobbywing BLHeli_32_Dshot1200 XRotor-30A-Micro-2-5S-
+* ESC used             - Hobbywing BLHeli_32_Dshot1200 XRotor-30A-Micro-2-5S-
+* Brushless Motor used - Racerstar Racing Edition 2205 BR2205 3000KV 2-4S Brushless Motor 
+*                        For X210 X220 250 260 FPV Racer
 ********************************************************************************************************/
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Include the Bounce2 library found here :
